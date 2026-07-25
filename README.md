@@ -1,152 +1,32 @@
-<h1 align="center">Hi 👋, I'm Naga Hemanth</h1>
+# 💫 About Me:
+# Hi 👋, I'm Devapuja Naga Hemanth
 
-<h3 align="center">🚀 Full Stack Developer | AI & Machine Learning Enthusiast | B.Tech CSE (AI & ML)</h3>
+🟢 **Open to Internships • Open Source Contributions • Software Development Opportunities**
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Engineer;Building+Real-World+Software;Founder+of+KernelXGraph+Technologies;Open+to+Software+Engineering+Internships;Always+Learning+New+Technologies" />
-</p>
+🎓 B.Tech Computer Science Engineering (AI & ML) Student<br><br>💻 Passionate Full Stack Web Developer and AI Enthusiast<br><br>🚀 Founder of KernelXGraph Technologies<br><br>🤖 Interested in Artificial Intelligence, Machine Learning, and Software Development<br><br>🌱 Currently learning Advanced Java, React, Node.js, and Cloud Technologies<br><br>🛠️ Building real-world applications that solve practical problems<br><br>📌 My goal is to create innovative software products and build a successful technology company<br><br>📫 Reach me: charinagahemanth@gmail.com<br><br>⚡ Fun fact: I enjoy turning ideas into real software projects.
 
-<p align="center">
-<a href="https://github.com/Nagahemanth1"><img src="https://img.shields.io/github/followers/Nagahemanth1?label=Followers&style=for-the-badge"/></a>
-<a href="https://github.com/Nagahemanth1"><img src="https://img.shields.io/github/stars/Nagahemanth1?affiliations=OWNER&style=for-the-badge"/></a>
-<img src="https://komarev.com/ghpvc/?username=Nagahemanth1&label=Profile%20Views&style=for-the-badge&color=blue"/>
-</p>
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devapuja-nagahemanth-3a2a18372) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:charinagahemanth@gmail.com)
 
-# 💫 About Me
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-🎓 B.Tech Computer Science Engineering (AI & ML)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=devapujanagahemanth22&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=devapujanagahemanth22&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=devapujanagahemanth22&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-💻 Passionate Full Stack Developer
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=devapujanagahemanth22&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
-🤖 AI & Machine Learning Enthusiast
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-🚀 Founder of KernelXGraph Technologies
-
-🌱 Currently learning
-- React.js
-- Node.js
-- Java
-- Python
-- Cloud Computing
-
-🔭 Working on
-- AI Face Attendance System
-- Duty Roster Management System
-- Modern Web Applications
-
-🤝 Open to
-- Software Engineering Internships
-- Open Source Contributions
-- Freelance Projects
-- Technical Collaborations
-
-🎯 Goal
-
-To build innovative AI-powered software products that solve real-world problems.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=devapujanagahemanth22&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=devapujanagahemanth22&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 🚀 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql"/>
-</p>
-
-### Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,tailwind"/>
-</p>
-
-### AI & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,git,github,vscode"/>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🤖 AI Face Attendance System | Face Recognition Attendance using AI | Python, OpenCV, TensorFlow |
-| 📅 Duty Roster Management | Employee Duty Scheduling System | React, Node.js, MySQL |
-| 📚 Book Finder | Search books online | HTML, CSS, JavaScript |
-| 🌐 Portfolio Website | Personal Portfolio | React |
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nagahemanth1&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Nagahemanth1&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagahemanth1&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nagahemanth1&theme=algolia&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nagahemanth1&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/your-linkedin">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:your-email@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://your-portfolio.com">
-<img src="https://skillicons.dev/icons?i=devto"/>
-</a>
-
-</p>
-
----
-
-# 💡 Quote
-
-> **"Code with passion. Learn with purpose. Build for impact." 🚀**
-
----
-
-<p align="center">
-
-### ⭐ If you like my work, don't forget to star my repositories! ⭐
-
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
