@@ -9,7 +9,6 @@
 ### About Me
 
 - 🎓 B.Tech CSE (AI & ML) Student
-- 🚀 Founder of **KernelXGraph Technologies**
 - 🔭 Building real-world full stack and AI/ML projects
 - 🌱 Currently learning Advanced Java, React, Node.js, and Cloud Technologies
 - 🤝 Open to Internships • Open Source Contributions • Software Development Opportunities
@@ -44,9 +43,12 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [Project Name 1](https://github.com/devapujanagahemanth22) | Short one-line description of what it does | Java, React, Node.js |
-| [Project Name 2](https://github.com/devapujanagahemanth22) | Short one-line description of what it does | Python, TensorFlow |
-| [Project Name 3](https://github.com/devapujanagahemanth22) | Short one-line description of what it does | React, MongoDB, Express |
+| [MediFlow AI](https://github.com/devapujanagahemanth22/mediflow-ai) | AI-powered healthcare workflow application | TypeScript |
+| [Gen AI Lab](https://github.com/devapujanagahemanth22/Gen_AI_Lab) | Generative AI experiments and lab exercises | Python |
+| [Java Full Stack](https://github.com/devapujanagahemanth22/javafullstack) | Full stack application built with Java | Java |
+| [Software Testing](https://github.com/devapujanagahemanth22/software_testing) | Software testing scripts and practice projects | Python |
+| [FSD Unit 1](https://github.com/devapujanagahemanth22/FSD_UNIT1) | Full stack development coursework and exercises | HTML, CSS, JS |
+| [HTML Assignment](https://github.com/devapujanagahemanth22/htmlassigment) | HTML practice assignment | HTML |
 
 ---
 
