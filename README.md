@@ -1,73 +1,152 @@
 <h1 align="center">Hi 👋, I'm Naga Hemanth</h1>
 
-<h3 align="center">
-Full Stack Developer | AI & Machine Learning Enthusiast | B.Tech CSE (AI & ML)
-</h3>
+<h3 align="center">🚀 Full Stack Developer | AI & Machine Learning Enthusiast | B.Tech CSE (AI & ML)</h3>
 
 <p align="center">
-🚀 Open to Internships • Open Source Contributions • Software Development Opportunities
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Engineer;Building+Real-World+Software;Founder+of+KernelXGraph+Technologies;Open+to+Software+Engineering+Internships;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+<a href="https://github.com/Nagahemanth1"><img src="https://img.shields.io/github/followers/Nagahemanth1?label=Followers&style=for-the-badge"/></a>
+<a href="https://github.com/Nagahemanth1"><img src="https://img.shields.io/github/stars/Nagahemanth1?affiliations=OWNER&style=for-the-badge"/></a>
+<img src="https://komarev.com/ghpvc/?username=Nagahemanth1&label=Profile%20Views&style=for-the-badge&color=blue"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me
 
-- 🎓 B.Tech in Computer Science Engineering (AI & ML)
-- 💻 Passionate about Full Stack Development and AI-powered applications
-- 🤖 Exploring Artificial Intelligence, Machine Learning & Cloud Computing
-- 🌱 Currently learning React, Node.js, Java, Python and System Design
-- 🔭 Building real-world software products and AI solutions
-- 🤝 Open to Internships, Collaborations and Freelance Projects
-- 🎯 Goal: Build innovative products that create real-world impact
+🎓 B.Tech Computer Science Engineering (AI & ML)
 
----
+💻 Passionate Full Stack Developer
 
-## 🛠️ Tech Stack
+🤖 AI & Machine Learning Enthusiast
 
-**Languages**
-- Python • Java • JavaScript • SQL • HTML5 • CSS3
+🚀 Founder of KernelXGraph Technologies
 
-**Frontend**
-- React • Bootstrap • Tailwind CSS
+🌱 Currently learning
+- React.js
+- Node.js
+- Java
+- Python
+- Cloud Computing
 
-**Backend**
-- Node.js • Express.js
+🔭 Working on
+- AI Face Attendance System
+- Duty Roster Management System
+- Modern Web Applications
 
-**Database**
-- MySQL • MongoDB
+🤝 Open to
+- Software Engineering Internships
+- Open Source Contributions
+- Freelance Projects
+- Technical Collaborations
 
-**Tools**
-- Git • GitHub • VS Code • Postman
+🎯 Goal
 
-**AI/ML**
-- TensorFlow • OpenCV • Scikit-learn
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| AI Face Attendance System | AI-based face recognition attendance | Python, OpenCV, TensorFlow |
-| Duty Roster Management | Employee scheduling system | React, Node.js, MySQL |
-| Book Finder | Book search web application | HTML, CSS, JavaScript |
+To build innovative AI-powered software products that solve real-world problems.
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Tech Stack
 
-*(Generated automatically by GPRM)*
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql"/>
+</p>
+
+### Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,tailwind"/>
+</p>
+
+### AI & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,git,github,vscode"/>
+</p>
 
 ---
 
-## 🌐 Connect With Me
+# 🚀 Featured Projects
 
-- 📧 Email: your-email@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
-- 💻 GitHub: https://github.com/Nagahemanth1
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🤖 AI Face Attendance System | Face Recognition Attendance using AI | Python, OpenCV, TensorFlow |
+| 📅 Duty Roster Management | Employee Duty Scheduling System | React, Node.js, MySQL |
+| 📚 Book Finder | Search books online | HTML, CSS, JavaScript |
+| 🌐 Portfolio Website | Personal Portfolio | React |
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nagahemanth1&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Nagahemanth1&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagahemanth1&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nagahemanth1&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nagahemanth1&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/your-linkedin">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://your-portfolio.com">
+<img src="https://skillicons.dev/icons?i=devto"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> **"Code with passion. Learn with purpose. Build for impact." 🚀**
 
 ---
 
 <p align="center">
-✨ <b>Open to Internships | Open Source | Collaborations | Software Engineering Opportunities</b> ✨
+
+### ⭐ If you like my work, don't forget to star my repositories! ⭐
+
 </p>
